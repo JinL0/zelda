@@ -113,6 +113,6 @@
     ]
   },
   "devDependencies": {
-    "css-loader": "^1.0.0"
+    "css-loader": "^1.0.1"
   }
 }
