@@ -1,0 +1,5 @@
+{
+  "root": "https://zelda-food.herokuapp.com",
+  "clean_urls": true,
+  "error_page": "y"
+}
